@@ -1,6 +1,7 @@
 # Email/SMS Spam Classifier
 
 This project is a simple web application for classifying email or SMS messages as spam or not spam. It is built using Streamlit for the web interface and uses a pre-trained machine learning model for the classification.
+![Spam Classifier Screenshot](Screenshot 2024-06-30 141219.png)
 
 ## Table of Contents
 
