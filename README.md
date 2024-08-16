@@ -4,6 +4,7 @@ This project is a simple web application for classifying email or SMS messages a
 
 ![Spam Classifier Screenshot](Screenshot_2024-06-30_141219.png)
 
+
 ## Table of Contents
 
 - [Features](#features)
